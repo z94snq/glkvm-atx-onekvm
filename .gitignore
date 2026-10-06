@@ -1,0 +1,8 @@
+# Built binary (release artifact)
+glatx-bridge
+
+# Host test binary
+hosttest
+
+__pycache__/
+*.pyc
